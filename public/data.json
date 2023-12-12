@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "year": 2017
+  },
+  {
+    "id": 2,
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "genre": "Rock",
+    "year": 1975
+  },
+  {
+    "id": 3,
+    "title": "Sicko Mode",
+    "artist": "Travis Scott",
+    "genre": "Hip Hop",
+    "year": 2018
+  },
+  {
+    "id": 4,
+    "title": "Same Old Love",
+    "artist": "Selena Gomez",
+    "genre": "Pop",
+    "year": 2019
+  },
+  {
+    "id": 5,
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "genre": "Pop",
+    "year": 2018
+  },
+  {
+    "id": 6,
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "year": 1971
+  },
+  {
+    "id": 7,
+    "title": "Savage Love",
+    "artist": "Jawsh 685 x Jason Derulo",
+    "genre": "Pop",
+    "year": 2020
+  },
+  {
+    "id": 8,
+    "title": "WAP",
+    "artist": "Cardi B ft. Megan Thee Stallion",
+    "genre": "Hip Hop",
+    "year": 2020
+  },
+  {
+    "id": 9,
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "genre": "Pop",
+    "year": 2013
+  },
+  {
+    "id": 10,
+    "title": "Radio Ga Ga",
+    "artist": "Queen",
+    "genre": "Rock",
+    "year": 1984
+  },
+  {
+    "id": 11,
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "year": 2014
+  },
+  {
+    "id": 12,
+    "title": "Photograph",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "year": 2015
+  },
+  {
+    "id": 13,
+    "title": "Castle on the Hill",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "year": 2017
+  },
+  {
+    "id": 14,
+    "title": "It Ain't Me",
+    "artist": "Selena Gomez",
+    "genre": "Pop",
+    "year": 2017
+  },
+  {
+    "id": 15,
+    "title": "Bad Liar",
+    "artist": "Selena Gomez",
+    "genre": "Pop",
+    "year": 2017
+  },
+  {
+    "id": 16,
+    "title": "Wolves",
+    "artist": "Selena Gomez, Marshmello",
+    "genre": "Pop",
+    "year": 2017
+  },
+  {
+    "id": 17,
+    "title": "Shape of You (Acoustic)",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "year": 2017
+  },
+  {
+    "id": 18,
+    "title": "Back to You",
+    "artist": "Selena Gomez",
+    "genre": "Pop",
+    "year": 2018
+  },
+  {
+    "id": 19,
+    "title": "I Don't Care",
+    "artist": "Ed Sheeran, Justin Bieber",
+    "genre": "Pop",
+    "year": 2019
+  },
+  {
+    "id": 20,
+    "title": "Lose You to Love Me",
+    "artist": "Selena Gomez",
+    "genre": "Pop",
+    "year": 2019
+  },
+  {
+    "id": 21,
+    "title": "Cardigan",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "year": 2020
+  },
+  {
+    "id": 22,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "genre": "R&B",
+    "year": 2019
+  },
+  {
+    "id": 23,
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "genre": "Pop",
+    "year": 2020
+  },
+  {
+    "id": 24,
+    "title": "Save Your Tears",
+    "artist": "The Weeknd, Ariana Grande",
+    "genre": "R&B",
+    "year": 2021
+  },
+  {
+    "id": 25,
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "genre": "Pop",
+    "year": 2021
+  }
+]
